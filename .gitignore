@@ -1,0 +1,21 @@
+# Cartelle di ambienti virtuali
+venv/
+.env/
+
+# File di output e cache di Python
+__pycache__/
+*.py[cod]
+
+# File temporanei di Jupyter Notebook
+.ipynb_checkpoints/
+
+# File di log
+*.log
+
+# Librerie installate (se usi requirements.txt, non serve la cartella)
+*.egg-info/
+*.dist-info/
+
+# Configurazioni locali
+.DS_Store  # Per Mac
+Thumbs.db  # Per Windows
